@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MusicPlayer</string>
+    <string name="sound_name">TextView</string>
+    <string name="circle">Circle</string>
+    <string name="tooglebtn">toogleBtn</string>
+    <string name="prevbtn">prevBtn</string>
+    <string name="nextbtn">nextBtn</string>
+    <string name="imageviewtrack">imageViewTrack</string>
 </resources>
